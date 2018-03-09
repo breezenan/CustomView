@@ -13,6 +13,6 @@
         android:layout_centerInParent="true"
         breeze:toggle_background="@drawable/switch_background"
         breeze:toggle_slide="@drawable/slide_button"
-        breeze:toogle_state="true" />
+        breeze:toggle_state="true" />
 
 </RelativeLayout>
